@@ -13,15 +13,25 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
  # PROCEDURE
   1.Open Autodesk Fusion 360 and start a new design.
+  
   2.Check the document settings and make sure the units are in mm (millimeters).
+  
   3.Click on Create Sketch and select the XY plane.
+  
   4.Use the Line, Circle, and Arc tools to draw the shape according to the given diagram.
+  
   5.Use the Dimension (D) tool to give the correct lengths, radius, and diameters as shown in the question.
+  
   6.Make sure all lines turn black, meaning the sketch is fully locked with dimensions.
+  
   7.Use the Trim (T) tool to cut any unwanted or overlapping lines.
+  
   8.Use the Fillet tool to round the corners wherever needed.
+  
   9.Click on Finish Sketch.
+  
   10.Click on Design -> Drawing -> From Design to open the drawing sheet in ISO standard.
+  
   11.Place the base view on the sheet, add all the dimensions, and fill in the title block.
 
 # GIVEN SKETCH:
